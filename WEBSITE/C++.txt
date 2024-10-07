@@ -1,0 +1,129 @@
+[
+    {
+    "name":"C++ Full Course |  C++ Tutorial | Data",
+"url":"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&si=2D-Uvo8JPHD7lueH",
+"Price":"0",
+"Description":"Welcome to the Ultimate C++ Programming Course!
+In this video, we'll dive deep into the fundamentals of C++, one of the most powerful and versatile programming languages. Whether you're a beginner looking to start coding or an experienced developer seeking to sharpen your skills, this course has something for everyone!",
+"Rating":"4.1",
+"Type":"C++",
+"Image:":"apnacollege.jpeg",
+},
+
+{
+    "name":"C++ Complete Course",
+"url":"https://youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee&si=OPE8A9fddfBXtjZc",
+"Price":"0",
+"Description":"C++ is a powerful, high-performance programming language widely used for system/software development, game development, and in performance-critical applications. Developed as an extension of the C programming language, C++ supports both procedural and object-oriented programming, making it highly versatile.",
+"Rating":"3.6",
+"Type":"C++",
+"Image:":"jenny.jpg",
+},
+
+
+{
+    "name":"Complete C++ Placement DSA Course",
+"url":"https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=AxHGiQ1V-0FehFz_",
+"Price":"0",
+"Description":"C++ is a high-performance, general-purpose programming language that was developed by Bjarne Stroustrup in 1985 as an extension of the C language. Known for its versatility, C++ is widely used in system/software development, game development, embedded systems, and applications that require performance optimization and control over system resources.",
+"Rating":"3.8",
+"Type":"C++",
+"Image:":"babbar.jpg",
+},
+
+
+
+
+
+
+{
+    "name":"C++ and DSA Foundation Course",
+"url":"https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&si=4oHx4Pl4ZjHqzUBQ",
+"Price":"0",
+"Description":"",
+"Description":"C++ is a high-performance, general-purpose programming language created by Bjarne Stroustrup in 1985 as an extension of the C programming language. It is widely recognized for its versatility, offering both low-level system programming features and high-level abstractions. This combination makes C++ a popular choice in fields like system/software development, game development, and performance-critical applications.",
+"Rating":"4.2",
+"Type":"C++",
+"Image:":"college.jpg",
+},
+
+
+
+
+{
+    "name":"Learn Advanced C++ Course Online",
+"url":"https://www.simplilearn.com/advanced-c-plus-plus-course-skillup#:~:text=Learn%20the%20Fundamentals%20of%20C++%20with%20Free%20C++%20Course%20.",
+"Price":"0",
+"Description":"This Advanced C++ Course Online helps you learn advanced C++ concepts like multithreading, data racing deadlocks, and much more. This free, advanced C++ tutorial will help you build and work with operating systems, web browsers, games, etc. Now, you can learn advanced C++ online in just 2 hours with hands-on examples and code demonstrations.",
+"Rating":"4",
+"Type":"C++",
+"Image:":"simplilearn.avif",
+},
+
+
+
+
+
+
+
+
+{
+    "name":"Beginning C++ Programming - From Beginner to Beyond",
+"url":"https://www.udemy.com/share/101Wd43@5DdFxVPiMyx8CQMemDF670nuINYDtRpkj2Dw2Qsi5hebPnRnAuIyiJxZyzD2oLNedw==/",
+"Price":"449",
+"Description":"Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
+"Rating":"4.6",
+"Type":"C++",
+"Image:":"udemy.jpg",
+},
+
+
+
+
+
+{
+    "name":"Full C++ Programming Crash Course - Beginner to Advanced",
+"url":"https://youtu.be/2bSuuzMwda8",
+"Price":"0",
+"Description":"C++ is a powerful, general-purpose programming language created by Bjarne Stroustrup in 1985 as an enhancement of the C programming language. It is widely used in systems programming, game development, real-time simulations, and applications that require high performance and direct hardware access. C++ offers a blend of high-level features, such as object-oriented programming, and low-level capabilities, like memory manipulation, making it one of the most versatile languages in the world.",
+"Rating":"3.1",
+"Type":"C++",
+"Image:":"steve.jpeg",
+},
+
+
+
+
+
+
+
+
+
+{
+    "name":"Master C++ on Linux | Full Course",
+"url":"https://youtu.be/VXvPpPCF7E0",
+"Price":"0",
+"Description":"C++ is a high-level, general-purpose programming language that was developed by Bjarne Stroustrup in 1985 as an extension of the C programming language. Known for its flexibility, power, and performance, C++ is widely used in system/software development, game development, embedded systems, and applications where high performance is critical. It supports both procedural and object-oriented programming paradigms, making it versatile for a wide range of tasks.",
+"Rating":"3.5",
+"Type":"C++",
+"Image:":"savvy.jpeg",
+},
+{
+    "name":"C++ Full Course 2023 | C++ Tutorial For Beginners | C++ Programming | C++ Projects | SimpliCode",
+"url":"https://youtu.be/udFpgL_Ex_w",
+"Price":"0",
+"Description":"C++ is a powerful, general-purpose programming language developed by Bjarne Stroustrup in 1985. It is widely used for system/software development, game development, and performance-critical applications. C++ combines features of both high-level and low-level programming, offering object-oriented programming (OOP) capabilities, along with manual memory management and low-level access to hardware.",
+"Rating":"3",
+"Type":"C++",
+"Image:":"simplicode.jpeg",
+},
+{
+    "name":"C++ Programming",
+"url":"https://youtube.com/playlist?list=PLqleLpAMfxGDq9Ehl8FUstcRrCRQPQO7n&si=L_L2Z28liyo94UsQ",
+"Price":"0",
+"Description":"C++ is a high-performance, general-purpose programming language created by Bjarne Stroustrup in 1985. It extends the C language with object-oriented programming features, offering a balance between low-level system access and high-level programming constructs. Known for its speed and efficiency, C++ is widely used in system development, game engines, and applications requiring direct hardware control.",
+"Rating":"4",
+"Type":"C++",
+"Image:":"c:\Users\snehi\Downloads\learncoding.jpg",
+}
+]
