@@ -616,5 +616,97 @@
   "Rating":"4.2",
   "type":"App development",
    "image":"neatapp.jpg"
-}]
+},
+[
+    {
+        "name": "Android Studio Tutorial",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/android-studio-tutorial",
+        "price": "0",
+        "Description": "Join this free course to get introduced to Android Studio, its structure, and various features and learn why this integrated development environment is an important tool for Android development across various platforms.",
+        "Rating": "4.4",
+        "Type": "Android Studio",
+        "image": "image1.jpg"
+    },
+    {
+        "name": "Android App with Python",
+        "url": "https://www.mygreatlearning.com/academy/learn-for-free/courses/android-app-with-python",
+        "price": "0",
+        "Description": "Learn about android app with python from basics in this free online training. Android app with python course is taught hands-on by experts. Learn about python, pycharm, & anaconda installation and variables in python in details.",
+        "Rating": "4.3",
+        "Type": "App Development",
+        "image": "image2.jpg"
+    },
+    {
+        "name": "Android Development Tutorial For Beginners In Hindi (With Notes)",
+        "url": "https://youtu.be/mXjZQX3UzOs?si=kkbPqg5zePjpKlrv",
+        "price": "0",
+        "Description": "Learn Android in One Video: In this Android App Development tutorial, we will learn how to make beautiful android applications from scratch in Hindi. This Android tutorial in Hindi will teach you how to make Android apps that sell from scratch. We will learn to make apps and publish them to the play store in 2021. We will learn how to make money from our android application through various means. I will also share some of my personal secrets techniques for making money online using Android Applications. You can become a successful android developer after watching this video",
+        "Rating": "4.0",
+        "Type": "App Development",
+        "image": "image3.jpg"
+    },
+    {
+        "name": "Android APP Development Full Course with PRACTICAL (41 Hours) | Learn App Development in 2024",
+        "url": "https://youtu.be/u64gyCdqawU?si=LRQd0x7M3cLGlBRj",
+        "price": "0",
+        "Description": "Android APP Development Full Course with PRACTICAL (Beginner to Pro) | Learn App Development in 2024",
+        "Rating": "4.1",
+        "Type": "App Development",
+        "image": "image4.jpg"
+    },
+    {
+        "name": "Android Java Masterclass - Become an App Developer",
+        "url": "https://www.udemy.com/share/101Wq8/",
+        "price": "3499",
+        "Description": "In this course, you will discover the power of Android app development, and obtain the skills to dramatically increase your career prospects as a software developer. You’ll also have a head start over other developers using obsolete tools and earlier versions of Android.",
+        "Rating": "4.7",
+        "Type": "App Development",
+        "image": "image5.jpg"
+    },
+    {
+        "name": "Real Android App Dev in 15 Hours|KotlinDevX Certificate 2024",
+        "url": "https://www.udemy.com/share/105Ch8/",
+        "price": "1999",
+        "Description": "Android application development has gained immense popularity in recent years, and Kotlin has quickly become the preferred language for Android development. With its concise syntax, null safety features, and seamless interoperability with existing Java code, Kotlin offers a powerful and efficient way to build robust Android applications. By mastering Kotlin, you will be equipped to create cutting-edge Android apps that deliver exceptional user experiences.",
+        "Rating": "4.2",
+        "Type": "App Development",
+        "image": "image6.jpg"
+    },
+    {
+        "name": "Android N Developer Course",
+        "url": "https://www.brainmeasures.com/video/489/android-n-developer-course",
+        "price": "5796",
+        "Description": "An android developer develops apps that are compatible with android operating system, challenge of building android apps is that they should be compatible with fragmented android ecosystem like multiple version of android and different device types.",
+        "Rating": "4.1",
+        "Type": "App Development",
+        "image": "image7.webp"
+    },
+    {
+        "name": "The Complete Android Oreo Developer Course - Build 23 Apps!",
+        "url": "https://www.udemy.com/share/101X2O/",
+        "price": "3099",
+        "Description": "Learn Android App Development with Android 8.0 Oreo by building real apps including Twitter, Instagram and Super Mario Run.",
+        "Rating": "4.2",
+        "Type": "App Development",
+        "image": "image8.jpg"
+    },
+    {
+        "name": "The Comprehensive Android App Development Masterclass",
+        "url": "https://www.udemy.com/share/101WBM/",
+        "price": "3699",
+        "Description": "Android App Development will open many doors for you since Android is the most popular operating system in the world. You may want to learn Android development for many reasons- maybe you have many app ideas but don't know where to start. Or perhaps it's time for a career change, and Android Development picked your interest? Or maybe you want to be more valuable at your company... whatever the reason, you're on the right path by being here!",
+        "Rating": "4.5",
+        "Type": "App Development",
+        "image": "image9.jpg"
+    },
+    {
+        "name": "Dependency Injection in Android with Dagger and Hilt",
+        "url": "https://www.udemy.com/share/101zkI/",
+        "price": "3099",
+        "Description": "In this course you'll learn all about Dependency Injection in Android and master Dagger and Hilt Dependency Injection frameworks. By the end of the course, you'll acquire an expert-level knowledge and will be ready to use Dagger, Hilt or manual Dependency Injection in your own Android applications.",
+        "Rating": "4.6",
+        "Type": "App Development",
+        "image": "image10.jpg"
+    }]
+
 
