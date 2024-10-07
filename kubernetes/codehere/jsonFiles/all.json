@@ -1,0 +1,620 @@
+[{
+    "name":"Rust For Undergrads",
+    "url":"https://www.udemy.com/course/rust-for-undergrads/",
+    "price":"0",
+    "Description":"Rust is a systems programming language sponsored by Mozilla which describes it as a 'safe, concurrent, practical language', supporting functional and imperative-procedural paradigms. Rust is syntactically similar to C++, but its designers intend it to provide better memory safety while still maintaining performance prevents segfaults, and guarantees thread safety. In this course, you will learn the basics of Rust programming language which would help you get started.",
+    "Rating":"3.8",
+    "Type":"Rust",
+    "image":"FreeRust.jpg"
+},
+{
+    "name":"Rust Tutorial for Beginners - Full Course",
+    "url":"https://youtu.be/qP7LzZqGh30?si=W11VwqhCz5C9dID9",
+    "price":"0",
+    "Description":"In this video, Harkirat takes you through four hours of learning rust from the basics. It covers concepts like memory management, ownership, borrowing, structures, data types, enums, and much more.",
+    "Rating":"4",
+    "Type":"Rust",
+    "image":"RustBoot.jpg"
+
+},
+{
+    "name":"Rust Tutorial For Beginners | Two Rust Projects",
+    "url":"https://youtu.be/Jcbh07P0jHU?si=SKEOr_sWwjHHVmm7",
+    "price":"0",
+    "Description":"A Rust programming course is designed to teach developers the core concepts and advanced features of the Rust programming language, with a focus on building safe, efficient, and concurrent applications. Whether for beginners new to systems programming or experienced developers looking to expand their skill set, a Rust course offers a structured approach to mastering this modern language.",
+    "Rating":"4",
+    "Type":"Rust",
+    "image":"codeRust.jpg"
+},
+{
+    "name":"Corso introduttivo per programmare in Rust",
+    "url":"https://www.udemy.com/course/corso-introduttivo-per-programmare-in-rust/",
+    "price":"0",
+    "Description":"Rust è un linguaggio di programmazione che sta diventando sempre più popolare fra gli sviluppatori di tutto il mondo. E' stato concepito per superare alcune delle limitazioni del linguaggio C++ specialmente nella gestione della memoria. In questo corso introduttivo, interamente in italiano, vengono fornite le basi della programmazione in Rust attraverso video altamente interattivi, così che lo studente possa ripetere sul suo computer esattamente quello che vede fare dall'insegnante sullo schermo.",
+    "Rating":"4",
+    "Type":"Rust",
+    "image":"rustudem.jpg"
+},
+{
+    "name":"Basic Rust Programming Language Course",
+    "url":"https://www.brainmeasures.com/video/854/basic-rust-programming-language-course",
+    "price":"5796",
+    "Description":"Rust is a multi-paradigm programming language designed for performance and safety, especially safe concurrency. Rust is syntactically similar to C++ but can guarantee memory safety by using a borrow checker to validate references. Rust achieves memory safety without garbage collection, and reference counting is optional.",
+    "Rating":"3.8",
+    "Type":"Rust",
+    "image":"RustBrain"
+},
+{
+    "name":"Rust Programming Essentials Course",
+    "url":"https://expertrainingdownload.com/product/rust-programming-essentials-course/",
+    "price":"840",
+    "Description":"In the course, you will learn about the Rust toolset, the Rust type system, how to implement flow control, how to use compound types and collections, and how Rust carefully manages the lifetime of objects and how they are referenced safely in your code.",
+    "Rating":"4.9",
+    "Type":"Rust",
+    "image":"RustExpert.jpg"
+},
+{
+    "name":"Rust Programming Foundations & Rust Advanced Concepts and Real-World Projects",
+    "url":"https://expertrainingdownload.com/product/rust-programming-foundations-rust-advanced-concepts-and-real-world-projects/",
+    "price":"840",
+    "Description":"Rust Programming Part 1: Foundations & Part 2: Rust Advanced Concepts and Real-World Projects",
+    "Rating":"4.5",
+    "Type":"Rust",
+    "image":"RustProgramming2.jpg"
+},
+{
+    "name":"Ultimate Rust 2 Intermediate Concepts",
+    "url":"https://www.udemy.com/share/105w4Q/",
+    "price":"2999",
+    "Description":"This is a hands-on course! Not only are there targeted exercise for each topic discussed, there are also a series of project scenarios that walk you through using what you've learned to put together playable game prototypes that work on macOS, Linux, and Windows!  These projects will make use of Rusty Engine, a game engine developed specifically for this course to keep game engine concepts to a minimum so you can focus on using exactly what you learned in this course.",
+    "Rating":"4.6",
+    "Type":"Rust",
+    "image":"RustUltimate2"
+
+},
+{
+    "name":"Learn Rust by Building Real Applications",
+    "url":"https://www.udemy.com/share/103oeY/",
+    "price":"3099",
+    "Description":"In this course you will learn the fundamentals of Rust. The format will be a bit different than most other courses. Instead of jumping between unrelated concepts in every video and showing examples that have nothing to do with the real world use of the language, we will learn entirely through practice.",
+    "Rating":"4.6",
+    "Type":"Rust",
+    "image":"LearnRust.jpg"
+},
+{
+    "name":"The Rust Programming Language",
+    "url":"https://www.udemy.com/share/101Z1I/",
+    "Price":"2899",
+    "Description":"This course will teach you the fundamentals of Rust, a modern programming language that has the both the power of native code as well as the safety of some managed languages.",
+    "Rating":"4.3",
+    "Type":"Rust",
+    "image":"TheRust.jpg"
+},
+{
+    "name":"Sigma Web Development Course",
+    "url":"https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=HXFmQ2PoBORZ9yDV",
+    "Price":"0",
+    "Description":"Are you interested in learning web development but find most tutorials in English hard to follow? Look no further! This course is entirely in Hindi and is designed to take you from beginner to pro, one step at a time",
+    "Rating":"4",
+    "Type":"Web Development",
+    "images":"Sigma.jpg"
+},
+{
+    "name":"Complete Web Dev using MERN stack",
+    "url":"https://youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD&si=xjLZ4VLesz3siElY",
+    "Price":"0",
+    "Description":"Looking to become a Full Stack Web Developer using MERN stack? You've come to the right place! In this tutorial series, we'll cover everything you need to know to become a Full Stack Web Developer using MongoDB, Express, React, and Node.js.",
+    "Rating":"3.5",
+    "Type":"Full stack Web Development",
+    "images":"webDevMern.jpg"
+},
+{
+    "name":"Front End Development - CSS",
+    "url":"https://www.mygreatlearning.com/academy/courses/12958271/12800",
+    "Price":"0",
+    "Description":"Unlock the power of CSS (Cascading Style Sheets) in this comprehensive course, perfect for both beginners and those looking to enhance their web design skills. This course will teach you how to transform plain HTML pages into visually stunning, responsive, and user-friendly websites.",
+    "Rating":"4",
+    "Type":"CSS",
+    "images":"olympus.jpg"
+},
+{
+    "name":"React JS Tutorial",
+    "url":"https://www.mygreatlearning.com/academy/courses/12958271/52045",
+    "Price":"0",
+    "Description":"Dive into the world of modern web development with our comprehensive React.js Course. This course is designed to take you from the basics of React, one of the most popular JavaScript libraries, to mastering advanced concepts essential for building dynamic, scalable, and high-performance web applications.",
+    "Rating":"3.8",
+    "Type":"React.js",
+    "images":"react.png"
+},
+{
+    "name":"A to Z Web Developer Course 2.0 Course",
+    "url":"https://www.brainmeasures.com/video/1487/a-to-z-web-developer-course-2-0-course",
+    "Price":"5796",
+    "Description":"Brainmeasures is the most intricately designed learning platform that caters to the learning and developing needs of professionals, students, and enthusiastic learners. It bridges the gap between potential job seekers and organizations looking for talented employees.",
+    "Rating":"3.8",
+    "Type":"Web Development",
+    "images":"a2zWeb.webp"
+},
+{
+    "name":"Website Design & Development Ultimate Course",
+    "url":"https://www.coursepoint.in/shop/all-courses/website-design-development-ultimate-mastery-course/",
+    "Price":"299",
+    "Description":"This course will teach anyone to build a functional, beautiful, responsive website. Create a Responsive Website that looks good on any browser. So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website.",
+    "Rating":"3.6",
+    "Type":"Web Development",
+    "images":"a2zWeb.webp"
+},
+{
+    "name":"Web Design & Development Course Using WordPress",
+    "url":"https://edutech365.com/product/web-development-design-using-wordpress-course/",
+    "Price":"1299",
+    "Description":"Web development and design using WordPress refer to the process of creating and building websites using the WordPress content management system (CMS).",
+    "Rating":"4",
+    "Type":"Web Development",
+    "images":"webdev-scaled"
+},
+{
+    "name":"Web Development",
+    "url":"https://wayspire.in/product/full-stack-web-development-2/",
+    "price":"12000",
+    "Description":"Unlock the skills to build and design modern websites with our comprehensive Web Development Course. This program is designed for beginners, intermediate learners, and aspiring professionals who want to create interactive, user-friendly websites and web applications.",
+    "Rating":"3.8",
+    "Type":"Web Development",
+    "images":"webDevelopment"
+},
+{
+    "name":"The Complete 2024 Web Development Bootcamp",
+    "url":"https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=LEARNNOWPLANS",
+    "price":"3099",
+    "Description":"Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
+    "Rating":"4",
+    "Type":"Full stack Web Development",
+    "images":"udemy1.jpg"
+},
+{
+    "name":"The Web Developer Bootcamp 2024",
+    "url":"https://www.udemy.com/share/101W9C/",
+    "price":"3099",
+    "Description":"10 Hours of React just added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!",
+    "Rating":"4.7",
+    "Type":"Web Development",
+    "images":"udemy2.jpg"
+},
+{
+    "name": "Python Full Course for free 🐍",
+    "url": "https://youtu.be/XKHEtdqhLK8",
+    "price": "0",
+    "description": "Python is a high-level, interpreted programming language known for its simplicity and readability. Developed by Guido van Rossum and first released in 1991, Python emphasizes code clarity, which makes it an excellent choice for beginners and experienced programmers alike.",
+    "rating": "4.6",
+    "type": "Python",
+    "image": "brocodepy.jpeg"
+},
+{
+    "name": "Python Tutorial - Python Full Course for Beginners",
+    "url": "https://youtu.be/_uQrJ0TkZlc",
+    "price": "0",
+    "description": "Python is a high-level, interpreted programming language known for its clear syntax and readability, making it an ideal choice for beginners and experienced developers alike. First released in 1991, Python supports multiple programming paradigms, including object-oriented, procedural, and functional programming. Its extensive standard library and a rich ecosystem of third-party packages facilitate rapid development in various fields such as web development, data analysis, artificial intelligence, and automation. Python's versatility, cross-platform compatibility, and strong community support have contributed to its status as one of the most popular programming languages in the world.",
+    "rating": "4",
+    "type": "Python",
+    "image": "moshpy.jpeg"
+},
+{
+    "name": "Python for Beginners – Full Course [Programming Tutorial]",
+    "url": "https://youtu.be/eWRfhZUzrAc",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "3.9",
+    "type": "Python",
+    "image": "freecodecamppy.jpeg"
+},
+{
+    "name": "Python Full Course - 12 Hours | Python For Beginners - Full Course | Python Tutorial | Edureka",
+    "url": "https://youtu.be/WGJJIrtnfpk",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "4",
+    "type": "Python",
+    "image": "edurekapy.jpeg"
+},
+{
+    "name": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+    "url": "https://youtu.be/H2EJuAcrZYU",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "3.5",
+    "type": "Python",
+    "image": "davepy.jpeg"
+},
+{
+    "name": "FREE Python Programming ( Full Course ) Python Tutorial For Beginners",
+    "url": "https://youtu.be/R2G7xQymBCs",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "4",
+    "type": "Python",
+    "image": "azadpy.jpeg"
+},
+{
+    "name": "PYTHON Full Course for Beginners in 16 Hour (with Projects + Questions) | Learn Python Tutorial 2024",
+    "url": "https://youtu.be/sCOw5y1RQpY",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "4",
+    "type": "Python",
+    "image": "wspy.jpeg"
+},
+{
+    "name": "Google Launched a FREE Python Course!🔥(+ FREE Google Certificate)",
+    "url": "https://youtu.be/KUpAMAQtOow",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "3.9",
+    "type": "Python",
+    "image": "ishanpy.jpeg"
+},
+{
+    "name": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+    "url": "https://youtu.be/t8pPdKYpowI",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "4",
+    "type": "Python",
+    "image": "techpy.jpeg"
+},
+{
+    "name": "Python Course | Python Tutorial for Beginners | Intellipaat",
+    "url": "https://youtu.be/pJ3IPRqiD2M",
+    "price": "0",
+    "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+    "rating": "4",
+    "type": "Python",
+    "image": "intellipy.jpeg"
+},
+    { 
+    "name":"Kubernetes for the Absolute Beginners - Hands-on",
+    "url":"https://www.udemy.com/course/learn-kubernetes/?couponCode=NVDIN35",
+    "Price":"₹549",
+    "Description":"This course is the best way to learn the Kubernetes skills you need to succeed in your DevOps career. Don't waste time wondering which course is best. You've found it. Start now and get the Kubernetes skills you need to be a successful DevOps engineer.The Best Course for the Kubernetes For Beginners, the perfect search ends here.- Student Testimonial.",
+    "Rating":"4.6",
+    "type":"kubernetes",
+    "Image":"udemy.png"
+    },
+    
+    { 
+    "name":"Kubernetes Made Easy",
+    "url":"https://www.eduonix.com/kubernetes-made-easy",
+    "Price":"₹199",
+    "Description":"Kubernetes and its practical Selenium Grid Configurations are covered from scratch in a practical and detailed way",
+    "Rating":"4",
+    "type":"kubernetes",
+    "Image":"kuber.png"
+    },
+    
+    { 
+    "name":"Complete Kubernetes Course - From BEGINNER to PRO",
+    "url":"https://youtu.be/2T86xAtR6Fo?feature=shared",
+    "Price":"free",
+    "Description":"This course covers the foundations of Kubernetes, guides you through deploying a representative demo application, and then explores day 2 operations (what happens after your application is running)",
+    "Rating":"",
+    "type":"kubernetes",
+    "Image":"kuber4.png"
+    },
+    
+    { 
+    "name":"Learn Kubernetes with KodeKloud",
+    "url":"https://youtube.com/playlist?list=PL2We04F3Y_43dAehLMT5GxJhtk3mJtkl5&feature=shared",
+    "Price":"Free",
+    "Description":"This playlist is all about Kubernetes, the open-source container orchestration system. You'll find videos covering a wide range of topics, including installation guides, tutorials on deploying and managing containerized applications, best practices for scaling and maintaining a Kubernetes cluster, and much more Kubernetes Learning Path",
+    "Rating":"",
+    "type":"kubernetes",
+    "Image":"kuber5.png"
+    },
+    
+    { 
+    "name":"Kubernetes Full Course - Get Certified !!!",
+    "url":"https://youtube.com/playlist?list=PLD1niLkf7lLKYZA68xlaaoid_mrtkPiiQ&feature=shared",
+    "Price":"Free",
+    "Description":"Welcome to Kubernetes Full Course !!! Are you ready to get certified in Kubernetes? You are in the right place because I'm offering this Kubernetes Full Course completely free through my YouTube channel.",
+    "Rating":"",
+    "type":"kubernetes",
+    "Image":"kuber6.png"
+    },
+    
+    { 
+    "name":"LinuxFoundationX: Introduction to Kubernetes",
+    "url":"https://www.edx.org/learn/kubernetes/the-linux-foundation-introduction-to-kubernetes?index=product&queryID=e3d0fbd5324b0a20b130842d66297694&position=1&linked_from=autocomplete&c=autocomplete",
+    "Price":"Free",
+    "Description":"Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.",
+    "Rating":"",
+    "type":"kubernetes",
+    "Image":"kuber7.png"
+    },
+    
+    {
+     "name":"Getting Started with Kubernetes",
+    "url":"https://www.linkedin.com/learning/paths/getting-started-with-kubernetes?u=132178689",
+    "Price":"included in linkedin learning",
+    "Description":"Kubernetes, a popular open-source container orchestration engine, offers the ability to schedule and manage containers at scale. This learning path helps you build the skills you need to deploy Kubernetes, including creating your first Kubernetes cluster, ensuring security best practices, and more.",
+    "Rating":"",
+    "type":"kubernetes",
+    "Image":"kuber8.jpg"
+    },
+    
+    { 
+    "name":"Certified Kubernetes Administrator Full Course For beginners | CKA 2024",
+    "url":"https://youtube.com/playlist?list=PLl4APkPHzsUUOkOv3i62UidrLmSB8DcGC&feature=shared",
+    "Price":"free",
+    "Description":"",
+    "Rating":"youtube",
+    "type":"kubernetes",
+    "Image":"kuber9,jpg"
+    },
+    
+    { 
+    "name":"Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]",
+    "url":"https://youtu.be/X48VuDVv0do?feature=shared",
+    "Price":"Free",
+    "Description":"Full Kubernetes Tutorial | Kubernetes Course | Hands-on course with a lot of demos",
+    "Rating":"youtube",
+    "type":"kubernetes",
+    "Image":"kuber10.png"
+    },
+    
+    { 
+    "name":"Complete Kubernetes Course | Deploy MERN app",
+    "url":"https://youtu.be/7XDeI5fyj3w?feature=shared",
+    "Price":"Free",
+    "Description":"Welcome to a youtube channel dedicated to programming and coding related tutorials. We talk about tech, write code, discuss about cloud and devops. That’s what we do all day, all year. We roll out a lot of series and videos on our channel.",
+    "Rating":"youtube",
+    "type":"kubernetes",
+    "Image":"kuber11.png"
+    },
+    
+    { 
+    "name":"What is Kubernetes-Hindi/Urdu | Lec-45 | Kubernetes tutorial for beginners",
+    "url":"https://youtube.com/playlist?list=PL5yTXsHqphjtp26VEnX_4uE5xZT1WCfMo&feature=shared",
+    "Price":"Free",
+    "Description":"",
+    "Rating":"youtube",
+    "type":"kubernetes",
+    "Image":"kuber12.png"
+    },
+
+{"name":"Free Java Programming Course with Certificate",
+  "url":"https://www.mygreatlearning.com/academy/learn-for-free/courses/java-programming",
+  "Price":"0",
+  "Description":"This free Java course will introduce you to the world of Java Programming. Explore the fundamentals of Java, like syntax, functions, and arrays. Enroll in this beginner course and kickstart your programming career in Java.",
+  "Rating":"4.48",
+  "type":"Java",
+  "image":"share-certificate.png"
+},
+{"name":"Free Java Full Stack Developer Course With Certificate",
+  "url":"https://www.simplilearn.com/free-full-stack-java-developer-course-skillup",
+  "Price":"0",
+  "Description":"Full-stack developers are in high demand. As a full-stack Java developer, you have the capability to own and operate the entire development process, from building the front-end UI to writing back-end logic and connecting to databases. This comprehensive free online Java full-stack developer course will equip you with the skills required to become an accomplished full-stack Java developer.",
+  "Rating":"4.5",
+  "type":"Java",
+  "image":"fullstack.avif"
+},
+{"name":"FULL STACK JAVA DEV: JAVA + JSP + SPRING + BOOT + JS + REACT",
+  "url":"https://www.udemy.com/share/101WBK/",
+  "Price":"549(Discounted)",
+  "Description":"Dive into our Full Stack Java Development course designed for all skill levels. Whether you're a seasoned IT professional looking to expand your skillset or a newcomer eager to explore the world of web development, our comprehensive course is crafted to cater to all levels of expertise.",
+  "Rating":"4.3",
+  "type":"Java",
+  "image":"thumb-1.jpg"
+},
+{"name":"Object Oriented Programming in Java Course Online",
+  "url":"https://www.scaler.com/topics/course/object-oriented-programming-java/",
+  "Price":"0",
+  "Description":"Discover the power of Object-Oriented Programming with our free beginners Java course. Learn the fundamentals of classes, objects, inheritance, and polymorphism. Dive into encapsulation and abstraction techniques. Gain hands-on experience through practical exercises and projects. Start your coding journey today!",
+  "Rating":"4.95",
+  "type":"Java",
+  "image":"oops.webp"
+},
+{"name":"Java Course Online",
+  "url":"https://edrk.in/jX5vcdu",
+  "Price":"19995",
+  "Description":"Java certification training by Edureka is designed to meet industry benchmarks and is curated by top industry experts. The Java Course online guides you to become an Oracle-certified professional and clear the Java SE8 programmer or Java SE11 developer certification exam on the first attempt. This online Java training will give you extensive knowledge of basic and advanced concepts of Core Java and J2EE, as well as popular frameworks like Hibernate, Spring, and SOA.",
+  "Rating":"4.6",
+  "type":"Java",
+  "image":"edu.webp"
+},
+{"name":"Java Full Course for free ☕",
+  "url":"https://youtu.be/xk4_1vDrzzo?si=ZSr1Dz4H5zf6ADB_",
+  "Price":"0",
+  "Description":"This course is free of cost and provides quality knowledge about java programming language.Enjoy your course!",
+  "Rating":"4.3",
+  "type":"Java",
+  "image":"utube.webp"
+},
+{"name":"Java and DSA Foundation Course",
+  "url":"https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr&si=aZLTN4yi-rBXzbgP",
+  "Price":"0",
+  "Description":"College wallah provides you the best courses available for free,from basics to advance.",
+  "Rating":"4",
+  "type":"Java",
+  "image":"wallah.jpg"
+},
+{"name":"Java in One Shot | Revision - 1 | Output, Input, Variables, Operators | Java Course",
+  "url":"https://youtu.be/Byf6xOYdNcw?si=9-31HpYsjHaT2blr",
+  "Price":"0",
+  "Description":"In this video, Raghav Sir will teach you the initial basic topics of Java in one shot. This video can be seen as a revision video if you are already following the Java and DSA Foundation Course, and even if you want to start from scratch as your first lecture. In this video, you will learn Input / Output, Variables, Operators and Conditionals.",
+  "Rating":"4",
+  "type":"Java",
+  "image":""
+},
+{
+    "name":"C++ Full Course |  C++ Tutorial | Data",
+"url":"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&si=2D-Uvo8JPHD7lueH",
+"Price":"0",
+"Description":"Welcome to the Ultimate C++ Programming Course! In this video, we'll dive deep into the fundamentals of C++, one of the most powerful and versatile programming languages. Whether you're a beginner lookinstart coding or an experienced developer seeking to sharpen your skills, this course has something for everyone!",
+"Rating":"4.1",
+"Type":"C++",
+"Image:":"apnacollege.jpeg"
+},
+
+{
+    "name":"C++ Complete Course",
+"url":"https://youtube.com/playlist?list=PLdo5W4Nhv31YU5Wx1dopka58teWP9aCee&si=OPE8A9fddfBXtjZc",
+"Price":"0",
+"Description":"C++ is a powerful, high-performance programming language widely used for system/software development, game development, and in performance-critical applications. Developed as an extension of the C programming language, C++ supports both procedural and object-oriented programming, making it highly versatile.",
+"Rating":"3.6",
+"Type":"C++",
+"Image:":"jenny.jpg"
+},
+
+
+{
+    "name":"Complete C++ Placement DSA Course",
+"url":"https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&si=AxHGiQ1V-0FehFz_",
+"Price":"0",
+"Description":"C++ is a high-performance, general-purpose programming language that was developed by Bjarne Stroustrup in 1985 as an extension of the C language. Known for its versatility, C++ is widely used in system/software development, game development, embedded systems, and applications that require performance optimization and control over system resources.",
+"Rating":"3.8",
+"Type":"C++",
+"Image:":"babbar.jpg"
+},
+{
+    "name":"C++ and DSA Foundation Course",
+"url":"https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&si=4oHx4Pl4ZjHqzUBQ",
+"Price":"0",
+"Description":"C++ is a high-performance, general-purpose programming language created by Bjarne Stroustrup in 1985 as an extension of the C programming language. It is widely recognized for its versatility, offering both low-level system programming features and high-level abstractions. This combination makes C++ a popular choice in fields like system/software development, game development, and performance-critical applications.",
+"Rating":"4.2",
+"Type":"C++",
+"Image:":"college.jpg"
+},
+{
+    "name":"Learn Advanced C++ Course Online",
+"url":"https://www.simplilearn.com/advanced-c-plus-plus-course-skillup#:~:text=Learn%20the%20Fundamentals%20of%20C++%20with%20Free%20C++%20Course%20.",
+"Price":"0",
+"Description":"This Advanced C++ Course Online helps you learn advanced C++ concepts like multithreading, data racing deadlocks, and much more. This free, advanced C++ tutorial will help you build and work with operating systems, web browsers, games, etc. Now, you can learn advanced C++ online in just 2 hours with hands-on examples and code demonstrations.",
+"Rating":"4",
+"Type":"C++",
+"Image:":"simplilearn.avif"
+},
+{
+    "name":"Beginning C++ Programming - From Beginner to Beyond",
+"url":"https://www.udemy.com/share/101Wd43@5DdFxVPiMyx8CQMemDF670nuINYDtRpkj2Dw2Qsi5hebPnRnAuIyiJxZyzD2oLNedw==/",
+"Price":"449",
+"Description":"Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below.",
+"Rating":"4.6",
+"Type":"C++",
+"Image:":"udemy.jpg"
+},
+{
+    "name":"Full C++ Programming Crash Course - Beginner to Advanced",
+"url":"https://youtu.be/2bSuuzMwda8",
+"Price":"0",
+"Description":"C++ is a powerful, general-purpose programming language created by Bjarne Stroustrup in 1985 as an enhancement of the C programming language. It is widely used in systems programming, game development, real-time simulations, and applications that require high performance and direct hardware access. C++ offers a blend of high-level features, such as object-oriented programming, and low-level capabilities, like memory manipulation, making it one of the most versatile languages in the world.",
+"Rating":"3.1",
+"Type":"C++",
+"Image:":"steve.jpeg"
+},
+{
+    "name":"Master C++ on Linux | Full Course",
+"url":"https://youtu.be/VXvPpPCF7E0",
+"Price":"0",
+"Description":"C++ is a high-level, general-purpose programming language that was developed by Bjarne Stroustrup in 1985 as an extension of the C programming language. Known for its flexibility, power, and performance, C++ is widely used in system/software development, game development, embedded systems, and applications where high performance is critical. It supports both procedural and object-oriented programming paradigms, making it versatile for a wide range of tasks.",
+"Rating":"3.5",
+"Type":"C++",
+"Image:":"savvy.jpeg"
+},
+{
+    "name":"C++ Full Course 2023 | C++ Tutorial For Beginners | C++ Programming | C++ Projects | SimpliCode",
+"url":"https://youtu.be/udFpgL_Ex_w",
+"Price":"0",
+"Description":"C++ is a powerful, general-purpose programming language developed by Bjarne Stroustrup in 1985. It is widely used for system/software development, game development, and performance-critical applications. C++ combines features of both high-level and low-level programming, offering object-oriented programming (OOP) capabilities, along with manual memory management and low-level access to hardware.",
+"Rating":"3",
+"Type":"C++",
+"Image:":"simplicode.jpeg"
+},
+{
+    "name":"C++ Programming",
+"url":"https://youtube.com/playlist?list=PLqleLpAMfxGDq9Ehl8FUstcRrCRQPQO7n&si=L_L2Z28liyo94UsQ",
+"Price":"0",
+"Description":"C++ is a high-performance, general-purpose programming language created by Bjarne Stroustrup in 1985. It extends the C language with object-oriented programming features, offering a balance between low-level system access and high-level programming constructs. Known for its speed and efficiency, C++ is widely used in system development, game engines, and applications requiring direct hardware control.",
+"Rating":"4",
+"Type":"C++",
+"Image:":"learncoding.jpg"
+},
+{"name":"Android Development Tutorial For Beginners In Hindi (With Notes) 🔥",
+  "url":"https://youtu.be/mXjZQX3UzOs?si=3RA8wIpOauHG37zQ",
+  "Price":"0",
+  "Description":"Learn Android in One Video: In this Android App Development tutorial, we will learn how to make beautiful android applications from scratch in Hindi. This Android tutorial in Hindi will teach you how to make Android apps that sell from scratch. We will learn to make apps and publish them to the play store in 2021. We will learn how to make money from our android application through various means. I will also share some of my personal secrets techniques for making money online using Android Applications. You can become a successful android developer after watching this video. ",
+  "Rating":"4.4",
+  "type":"App development",
+   "image":"cwh2.jpg"
+},
+{"name":"Android App Development Course in hindi",
+  "url":"https://youtube.com/playlist?list=PLUhfM8afLE_NQbVaoIEhceR9npbY57Pdg&si=b4yZGok2ygR5Wfqa",
+  "Price":"0",
+  "Description":"People are adopting mobile apps to master new skills, showing that mobile devices are not just for communication. Along with it, people are moving away from PCs and towards mobile technology. Mobile applications are consequently growing in significance in our day-to-day lives. Technology is advancing rapidly at the moment, and keeping up with it has emerged as the single most important factor in any company's success. An average American spends more than two hours every day surfing their mobile applications, according to research.",
+  "Rating":"4",
+  "type":"App development",
+   "image":"ap.jpg"
+},
+{"name":"Flutter Full Course For Beginners with Projects (22 Hours) | Learn Flutter App Development Tutorial",
+  "url":"https://youtu.be/1bQwDO88Gyw?si=rtUTXQ960mIbV2Cs",
+  "Price":"",
+  "Description":"Ready to become a Flutter Developer pro? In 22 hours, master Flutter app development through hands-on projects and step into the world of app creation. This Flutter tutorial covers everything from basics to advanced topics, making it perfect for beginners. Don't miss out on this FREE comprehensive Flutter course in 2024. Let's dive into the world of Flutter app development together!",
+  "Rating":"4.2",
+  "type":"App development",
+   "image":"flut.webp"
+},
+{"name":"",
+  "url":"https://www.udemy.com/share/101Wq8/",
+  "Price":"549(discounted)",
+  "Description":"Most Android courses just focus on teaching app development for the current Nougat version. What that means is you’re   only taught to make apps for the latest version of Android, and that alienates a huge user base.With my course, that’s not the case. Your skill level is maximized so your app reaches more users, which means more downloads, which means more money.",
+  "Rating":"4.7",
+  "type":"App development",
+   "image":"thumb-1 (1).jpg"
+},
+{"name":"Android APP Development Full Course with PRACTICAL (41 Hours) | Learn App Development in 2024",
+  "url":"https://youtu.be/u64gyCdqawU",
+  "Price":"0",
+  "Description":"Most Android courses just focus on teaching app development for the current Nougat version. What that means is you’re   only taught to make apps for the latest version of Android, and that alienates a huge user base. With my course, that’s not the case. Your skill level is maximized so your app reaches more users, which means more downloads, which means more money.",
+  "Rating":"4",
+  "type":"App development",
+   "image":"c:wsapp.jpg"
+},
+{"name":"Android Development for Beginners - Full Course",
+  "url":"https://youtu.be/fis26HvvDII",
+  "Price":"0",
+  "Description":"Most Android courses just focus on teaching app development for the current Nougat version. What that means is you’re   only taught to make apps for the latest version of Android, and that alienates a huge user base. With my course, that’s not the case. Your skill level is maximized so your app reaches more users, which means more downloads, which means more money.",
+  "Rating":"4",
+  "type":"App development",
+   "image":"freeapp.jpg"
+},
+{"name":"App Development: Process Overview, From Start to Finish | Udemy instructor, Angela Yu",
+  "url":"https://youtu.be/Sfpcl4FX3TU",
+  "Price":"0",
+  "Description":"Ready to become a Flutter Developer pro? In 22 hours, master Flutter app development through hands-on projects and step into the world of app creation. This Flutter tutorial covers everything from basics to advanced topics, making it perfect for beginners. Don't miss out on this FREE comprehensive Flutter course in 2024. Let's dive into the world of Flutter app development together!",
+  "Rating":"4",
+  "type":"App development",
+   "image":"apnaapp.jpg"
+},
+{"name":"How to Start App Development? Complete RoadMap | 2024",
+  "url":"https://youtu.be/7nQsQ0rvYqQ",
+  "Price":"0",
+  "Description":"",
+  "Rating":"4.2",
+  "type":"App development",
+   "image":"apnaapp.jpg"
+},
+{"name":"Android Full Course - Learn Android in 9 Hours | Android Development Tutorial for Beginners| Edureka",
+  "url":"https://youtu.be/aS__9RbCyHg",
+  "Price":"0",
+  "Description":"Ready to become a Flutter Developer pro? In 22 hours, master Flutter app development through hands-on projects and step into the world of app creation. This Flutter tutorial covers everything from basics to advanced topics, making it perfect for beginners. Don't miss out on this FREE comprehensive Flutter course in 2024. Let's dive into the world of Flutter app development together!",
+  "Rating":"4",
+  "type":"App development",
+   "image":"edurekapp.jpg"
+},
+{"name":"Android App Development Tutorial for Beginners - Kotlin - Hindi - #2",
+  "url":"https://youtu.be/AOzkQcFAUco",
+  "Price":"0",
+  "Description":"Ready to become a Flutter Developer pro? In 22 hours, master Flutter app development through hands-on projects and step into the world of app creation. This Flutter tutorial covers everything from basics to advanced topics, making it perfect for beginners. Don't miss out on this FREE comprehensive Flutter course in 2024. Let's dive into the world of Flutter app development together!",
+  "Rating":"4.2",
+  "type":"App development",
+   "image":"neatapp.jpg"
+}]
+
