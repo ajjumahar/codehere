@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Python Full Course for free 🐍",
+        "url": "https://youtu.be/XKHEtdqhLK8",
+        "price": "0",
+        "description": "Python is a high-level, interpreted programming language known for its simplicity and readability. Developed by Guido van Rossum and first released in 1991, Python emphasizes code clarity, which makes it an excellent choice for beginners and experienced programmers alike.",
+        "rating": "4.6",
+        "type": "Python",
+        "image": "brocodepy.jpeg"
+    },
+    {
+        "name": "Python Tutorial - Python Full Course for Beginners",
+        "url": "https://youtu.be/_uQrJ0TkZlc",
+        "price": "0",
+        "description": "Python is a high-level, interpreted programming language known for its clear syntax and readability, making it an ideal choice for beginners and experienced developers alike. First released in 1991, Python supports multiple programming paradigms, including object-oriented, procedural, and functional programming. Its extensive standard library and a rich ecosystem of third-party packages facilitate rapid development in various fields such as web development, data analysis, artificial intelligence, and automation. Python's versatility, cross-platform compatibility, and strong community support have contributed to its status as one of the most popular programming languages in the world.",
+        "rating": "4",
+        "type": "Python",
+        "image": "moshpy.jpeg"
+    },
+    {
+        "name": "Python for Beginners – Full Course [Programming Tutorial]",
+        "url": "https://youtu.be/eWRfhZUzrAc",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "3.9",
+        "type": "Python",
+        "image": "freecodecamppy.jpeg"
+    },
+    {
+        "name": "Python Full Course - 12 Hours | Python For Beginners - Full Course | Python Tutorial | Edureka",
+        "url": "https://youtu.be/WGJJIrtnfpk",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "4",
+        "type": "Python",
+        "image": "edurekapy.jpeg"
+    },
+    {
+        "name": "Python Full Course for Beginners | Complete All-in-One Tutorial | 9 Hours",
+        "url": "https://youtu.be/H2EJuAcrZYU",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "3.5",
+        "type": "Python",
+        "image": "davepy.jpeg"
+    },
+    {
+        "name": "FREE Python Programming ( Full Course ) Python Tutorial For Beginners",
+        "url": "https://youtu.be/R2G7xQymBCs",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "4",
+        "type": "Python",
+        "image": "azadpy.jpeg"
+    },
+    {
+        "name": "PYTHON Full Course for Beginners in 16 Hour (with Projects + Questions) | Learn Python Tutorial 2024",
+        "url": "https://youtu.be/sCOw5y1RQpY",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "4",
+        "type": "Python",
+        "image": "wspy.jpeg"
+    },
+    {
+        "name": "Google Launched a FREE Python Course!🔥(+ FREE Google Certificate)",
+        "url": "https://youtu.be/KUpAMAQtOow",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "3.9",
+        "type": "Python",
+        "image": "ishanpy.jpeg"
+    },
+    {
+        "name": "Python Tutorial for Beginners - Learn Python in 5 Hours [FULL COURSE]",
+        "url": "https://youtu.be/t8pPdKYpowI",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "4",
+        "type": "Python",
+        "image": "techpy.jpeg"
+    },
+    {
+        "name": "Python Course | Python Tutorial for Beginners | Intellipaat",
+        "url": "https://youtu.be/pJ3IPRqiD2M",
+        "price": "0",
+        "description": "Python is a powerful, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes an easy-to-understand syntax that mimics plain English, making it a popular choice for beginners and experts alike.",
+        "rating": "4",
+        "type": "Python",
+        "image": "intellipy.jpeg"
+    }
+]
