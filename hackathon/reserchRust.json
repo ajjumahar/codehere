@@ -1,4 +1,4 @@
-{
+[{
     "name":"Rust For Undergrads",
     "url":"https://www.udemy.com/course/rust-for-undergrads/",
     "price":"0",
@@ -90,3 +90,4 @@
     "Type":"Rust",
     "image":"TheRust.jpg"
 }
+]
