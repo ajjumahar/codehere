@@ -1,4 +1,4 @@
-{
+[{
     "name":"Sigma Web Development Course",
     "url":"https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=HXFmQ2PoBORZ9yDV",
     "Price":"0",
@@ -14,7 +14,7 @@
     "Description":"Looking to become a Full Stack Web Developer using MERN stack? You've come to the right place! In this tutorial series, we'll cover everything you need to know to become a Full Stack Web Developer using MongoDB, Express, React, and Node.js.",
     "Rating":"3.5",
     "Type":"Full stack Web Development",
-    "images":"webDevMern.jpg",
+    "images":"webDevMern.jpg"
 },
 {
     "name":"Front End Development - CSS",
@@ -41,7 +41,7 @@
     "Description":"Brainmeasures is the most intricately designed learning platform that caters to the learning and developing needs of professionals, students, and enthusiastic learners. It bridges the gap between potential job seekers and organizations looking for talented employees.",
     "Rating":"3.8",
     "Type":"Web Development",
-    "images":"a2zWeb.webp",
+    "images":"a2zWeb.webp"
 },
 {
     "name":"Website Design & Development Ultimate Course",
@@ -88,3 +88,4 @@
     "Type":"Web Development",
     "images":"udemy2.jpg"
 }
+]
