@@ -33,7 +33,7 @@
     "Description":"Rust è un linguaggio di programmazione che sta diventando sempre più popolare fra gli sviluppatori di tutto il mondo. E' stato concepito per superare alcune delle limitazioni del linguaggio C++ specialmente nella gestione della memoria. In questo corso introduttivo, interamente in italiano, vengono fornite le basi della programmazione in Rust attraverso video altamente interattivi, così che lo studente possa ripetere sul suo computer esattamente quello che vede fare dall'insegnante sullo schermo.",
     "Rating":"4",
     "Type":"Rust",
-    "image":"rustudem.jpg",
+    "image":"rustudem.jpg"
 },
 {
     "name":"Basic Rust Programming Language Course",
@@ -42,7 +42,7 @@
     "Description":"Rust is a multi-paradigm programming language designed for performance and safety, especially safe concurrency. Rust is syntactically similar to C++ but can guarantee memory safety by using a borrow checker to validate references. Rust achieves memory safety without garbage collection, and reference counting is optional.",
     "Rating":"3.8",
     "Type":"Rust",
-    "image":"RustBrain",
+    "image":"RustBrain"
 },
 {
     "name":"Rust Programming Essentials Course",
@@ -60,7 +60,7 @@
     "Description":"Rust Programming Part 1: Foundations & Part 2: Rust Advanced Concepts and Real-World Projects",
     "Rating":"4.5",
     "Type":"Rust",
-    "image":"RustProgramming2.jpg",
+    "image":"RustProgramming2.jpg"
 },
 {
     "name":"Ultimate Rust 2 Intermediate Concepts",
@@ -69,7 +69,7 @@
     "Description":"This is a hands-on course! Not only are there targeted exercise for each topic discussed, there are also a series of project scenarios that walk you through using what you've learned to put together playable game prototypes that work on macOS, Linux, and Windows!  These projects will make use of Rusty Engine, a game engine developed specifically for this course to keep game engine concepts to a minimum so you can focus on using exactly what you learned in this course.",
     "Rating":"4.6",
     "Type":"Rust",
-    "image":"RustUltimate2",
+    "image":"RustUltimate2"
 
 },
 {
@@ -79,7 +79,7 @@
     "Description":"In this course you will learn the fundamentals of Rust. The format will be a bit different than most other courses. Instead of jumping between unrelated concepts in every video and showing examples that have nothing to do with the real world use of the language, we will learn entirely through practice.",
     "Rating":"4.6"
     "Type":"Rust",
-    "image":"LearnRust.jpg",
+    "image":"LearnRust.jpg"
 },
 {
     "name":"The Rust Programming Language",
