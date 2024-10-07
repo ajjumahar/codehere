@@ -11,8 +11,7 @@
     "name":"Rust Tutorial for Beginners - Full Course",
     "url":"https://youtu.be/qP7LzZqGh30?si=W11VwqhCz5C9dID9",
     "price":"0",
-    "Description":"In this video, Harkirat takes you through four hours of learning rust from the basics. 
-It covers concepts like memory management, ownership, borrowing, structures, data types, enums, and much more.",
+    "Description":"In this video, Harkirat takes you through four hours of learning rust from the basics. It covers concepts like memory management, ownership, borrowing, structures, data types, enums, and much more.",
     "Rating":"4",
     "Type":"Rust",
     "image":"RustBoot.jpg"
