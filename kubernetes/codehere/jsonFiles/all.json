@@ -327,7 +327,7 @@
     "Description":"Want to learn Kubernetes? Get an in-depth primer on this powerful system for managing containerized applications.",
     "Rating":"",
     "type":"kubernetes",
-    "Image":"kuber7.png"
+    "Image":"kuber7.webp"
     },
     
     {
@@ -337,7 +337,7 @@
     "Description":"Kubernetes, a popular open-source container orchestration engine, offers the ability to schedule and manage containers at scale. This learning path helps you build the skills you need to deploy Kubernetes, including creating your first Kubernetes cluster, ensuring security best practices, and more.",
     "Rating":"",
     "type":"kubernetes",
-    "Image":"kuber8.jpg"
+    "Image":"kuber8.png"
     },
     
     { 
@@ -347,7 +347,7 @@
     "Description":"",
     "Rating":"youtube",
     "type":"kubernetes",
-    "Image":"kuber9,jpg"
+    "Image":"kuber9.jpg"
     },
     
     { 
@@ -402,7 +402,7 @@
   "Description":"Dive into our Full Stack Java Development course designed for all skill levels. Whether you're a seasoned IT professional looking to expand your skillset or a newcomer eager to explore the world of web development, our comprehensive course is crafted to cater to all levels of expertise.",
   "Rating":"4.3",
   "type":"Java",
-  "image":"thumb-1.jpg"
+  "image":"thumb-1.jpeg"
 },
 {"name":"Object Oriented Programming in Java Course Online",
   "url":"https://www.scaler.com/topics/course/object-oriented-programming-java/",
@@ -442,7 +442,16 @@
   "Description":"In this video, Raghav Sir will teach you the initial basic topics of Java in one shot. This video can be seen as a revision video if you are already following the Java and DSA Foundation Course, and even if you want to start from scratch as your first lecture. In this video, you will learn Input / Output, Variables, Operators and Conditionals.",
   "Rating":"4",
   "type":"Java",
-  "image":""
+  "image":"javacollege.jpg"
+},
+{
+    "name":"C++ Full Course |  C++ Tutorial | Data",
+"url":"https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ&si=2D-Uvo8JPHD7lueH",
+"Price":"0",
+"Description":"Welcome to the Ultimate C++ Programming Course! In this video, we'll dive deep into the fundamentals of C++, one of the most powerful and versatile programming languages. Whether you're a beginner lookinstart coding or an experienced developer seeking to sharpen your skills, this course has something for everyone!",
+"Rating":"4.1",
+"Type":"C++",
+"Image:":"apnacollege.jpeg"
 },
 {
     "name":"C++ Full Course |  C++ Tutorial | Data",
