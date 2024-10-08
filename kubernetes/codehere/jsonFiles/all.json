@@ -546,14 +546,7 @@
 "Type":"C++",
 "Image:":"learncoding.jpg"
 },
-{"name":"Android Development Tutorial For Beginners In Hindi (With Notes) 🔥",
-  "url":"https://youtu.be/mXjZQX3UzOs?si=3RA8wIpOauHG37zQ",
-  "Price":"0",
-  "Description":"Learn Android in One Video: In this Android App Development tutorial, we will learn how to make beautiful android applications from scratch in Hindi. This Android tutorial in Hindi will teach you how to make Android apps that sell from scratch. We will learn to make apps and publish them to the play store in 2021. We will learn how to make money from our android application through various means. I will also share some of my personal secrets techniques for making money online using Android Applications. You can become a successful android developer after watching this video. ",
-  "Rating":"4.4",
-  "type":"App development",
-   "image":"cwh2.jpg"
-},
+
 {"name":"Android App Development Course in hindi",
   "url":"https://youtube.com/playlist?list=PLUhfM8afLE_NQbVaoIEhceR9npbY57Pdg&si=b4yZGok2ygR5Wfqa",
   "Price":"0",
@@ -570,13 +563,21 @@
   "type":"App development",
    "image":"flut.webp"
 },
-{"name":"",
+{"name":"App Development full course",
   "url":"https://www.udemy.com/share/101Wq8/",
   "Price":"549(discounted)",
   "Description":"Most Android courses just focus on teaching app development for the current Nougat version. What that means is you’re   only taught to make apps for the latest version of Android, and that alienates a huge user base.With my course, that’s not the case. Your skill level is maximized so your app reaches more users, which means more downloads, which means more money.",
   "Rating":"4.7",
   "type":"App development",
    "image":"thumb-1 (1).jpg"
+},
+{"name":"Android APP Development Full Course with PRACTICAL (41 Hours) | Learn App Development in 2024",
+  "url":"https://youtu.be/u64gyCdqawU",
+  "Price":"0",
+  "Description":"Most Android courses just focus on teaching app development for the current Nougat version. What that means is you’re   only taught to make apps for the latest version of Android, and that alienates a huge user base. With my course, that’s not the case. Your skill level is maximized so your app reaches more users, which means more downloads, which means more money.",
+  "Rating":"4",
+  "type":"App development",
+   "image":"wsapp.jpg"
 },
 {"name":"Android APP Development Full Course with PRACTICAL (41 Hours) | Learn App Development in 2024",
   "url":"https://youtu.be/u64gyCdqawU",
