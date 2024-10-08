@@ -34,15 +34,14 @@
     "Rating":"4",
     "Type":"Rust",
     "image":"rustudem.jpg"
-},
-{
+},{
     "name":"Basic Rust Programming Language Course",
     "url":"https://www.brainmeasures.com/video/854/basic-rust-programming-language-course",
     "price":"5796",
     "Description":"Rust is a multi-paradigm programming language designed for performance and safety, especially safe concurrency. Rust is syntactically similar to C++ but can guarantee memory safety by using a borrow checker to validate references. Rust achieves memory safety without garbage collection, and reference counting is optional.",
     "Rating":"3.8",
     "Type":"Rust",
-    "image":"RustBrain"
+    "image":"RustBrain.webp"
 },
 {
     "name":"Rust Programming Essentials Course",
@@ -69,7 +68,7 @@
     "Description":"This is a hands-on course! Not only are there targeted exercise for each topic discussed, there are also a series of project scenarios that walk you through using what you've learned to put together playable game prototypes that work on macOS, Linux, and Windows!  These projects will make use of Rusty Engine, a game engine developed specifically for this course to keep game engine concepts to a minimum so you can focus on using exactly what you learned in this course.",
     "Rating":"4.6",
     "Type":"Rust",
-    "image":"RustUltimate2"
+    "image":"RustUltimate2.jpg"
 
 },
 {
@@ -97,7 +96,7 @@
     "Description":"Are you interested in learning web development but find most tutorials in English hard to follow? Look no further! This course is entirely in Hindi and is designed to take you from beginner to pro, one step at a time",
     "Rating":"4",
     "Type":"Web Development",
-    "images":"Sigma.jpg"
+    "images":"sigma.jpg"
 },
 {
     "name":"Complete Web Dev using MERN stack",
@@ -151,7 +150,7 @@
     "Description":"Web development and design using WordPress refer to the process of creating and building websites using the WordPress content management system (CMS).",
     "Rating":"4",
     "Type":"Web Development",
-    "images":"webdev-scaled"
+    "images":"webdev-scaled.webp"
 },
 {
     "name":"Web Development",
@@ -160,7 +159,7 @@
     "Description":"Unlock the skills to build and design modern websites with our comprehensive Web Development Course. This program is designed for beginners, intermediate learners, and aspiring professionals who want to create interactive, user-friendly websites and web applications.",
     "Rating":"3.8",
     "Type":"Web Development",
-    "images":"webDevelopment"
+    "images":"webDevelopment.jpg"
 },
 {
     "name":"The Complete 2024 Web Development Bootcamp",
